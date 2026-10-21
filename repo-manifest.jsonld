@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-yt/commit/a9f58814ac5d44010a9a77b3a9f7fc53d0307447",
       "git:hexsha": "a9f58814ac5d44010a9a77b3a9f7fc53d0307447",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
